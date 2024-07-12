@@ -14,10 +14,11 @@ namespace Hieu
             string input2 = Console.ReadLine();
             int number2 = int.Parse(input2);
 
-            int hieu = number1 - number2;
+            int Hieu = number1 - number2;
 
-            Console.WriteLine($"Ket qua cua {number1} va {number2} la: {hieu}");
+            Console.WriteLine($"Ket qua cua {number1} va {number2} la: {Hieu}");
         }
     }
 }
+
 
